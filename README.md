@@ -12,3 +12,17 @@
 - Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy, Scikit-learn, Statsmodels, Nltk
 #### :mortar_board: ML libraries:
 - CatBoost, LightGBM, BERT, Keras, etc.
+<h3>My Repositories</h3>
+
+<table width=100%>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>:briefcase: Projects</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/qontofears/Data-Science-Projects"><b>Yandex Practicum Data Science Projects</b></a></td>
+    </tr>
+  </tbody>
+</table>
